@@ -1,8 +1,10 @@
-# Welcome to Hedera University!
+# Welcome to DaVinciGraph University!
 
 **Your guide to mastering the Hedera Hashgraph ecosystem**
 
 Whether you're a complete beginner or have some blockchain experience, DaVinciGraph University is here to take you from zero to hero!
+
+![DaVinciGraph University](./images//DaVinciGraphUniversity.png)
 
 ## What You'll Learn
 
