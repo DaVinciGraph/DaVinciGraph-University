@@ -25,7 +25,7 @@ Whether you're a complete beginner or have some blockchain experience, DaVinciGr
 ## Modules
 
 - **[Module 01: Hedera Fundamentals](./module-01-hedera-fundamentals/README.md)**
-- **Module 02: Wallets and HBAR**
+- **[Module 02: Wallets and HBAR](./module-02-wallets-and-hbar/README.md)**
 - **Module 03: HTS Tokens**
 - **Module 04: DeFi on Hedera**
 - **Module 05: Token Creation**
