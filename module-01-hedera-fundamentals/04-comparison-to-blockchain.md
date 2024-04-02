@@ -36,4 +36,4 @@ Understanding how Hedera differs from traditional blockchain technology is essen
 | Fairness             | Fair access, fair timestamps, fair transaction order | Depends on implementation and incentives for miners                     |
 | Decentralization     | Decentralized, no single point of control            | Varies, some blockchains can be centralized due to mining concentration |
 
-[Previous: Use Cases](03-use-cases.md)
+[Previous: Use Cases](03-use-cases.md) [Next: module-02-wallets-and-hbar](../module-02-wallets-and-hbar/README.md)
