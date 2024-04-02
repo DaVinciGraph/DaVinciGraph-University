@@ -12,10 +12,10 @@ Welcome to Module 02! We'll explore everything you need to know about managing y
 
 **Modules**
 
-- [01-what-is-hbar.md](01-what-is-hbar.md)
-- [02-choosing-a-wallet.md](02-choosing-a-wallet.md)
-- [03-setting-up-wallet.md](03-setting-up-wallet.md)
-- [04-buying-hbar.md](04-buying-hbar.md)
-- [05-wallet-security.md](05-wallet-security.md)
+- [01-what-is-hbar.md](./01-what-is-HBAR.md)
+- [02-choosing-a-wallet.md](./02-choosing-a-wallet.md)
+- [03-setting-up-wallet.md](./03-setting-up-wallet.md)
+- [04-buying-hbar.md](./04-buying-hbar.md)
+- [05-wallet-security.md](./05-wallet-security.md)
 
 Let's dive in!
