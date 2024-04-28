@@ -38,4 +38,4 @@ For significant holdings, consider hardware wallets as the most secure option. T
 
 Unlike traditional banks, there's no central authority to recover lost crypto if your wallet is compromised. By prioritizing security, you can protect your hard-earned cryptocurrency investments.
 
-[Previous: Buying HBAR](./04-buying-hbar.md) [Next: module-03-hts-tokens](../module-03-hts-tokens/README.md)
+[Previous: Buying HBAR](./04-buying-hbar.md) [Next: module-03-defi-on-hedera](../module-03-defi-on-hedera/README.md)
