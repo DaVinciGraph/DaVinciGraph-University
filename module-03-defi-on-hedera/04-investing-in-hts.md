@@ -8,4 +8,4 @@ The HTS world is vast and fascinating, always offering new opportunities to expl
 
 Happy trading!
 
-[Previous: Understanding HTS](./01-understanding-hts.md) [Next: HTS Risks](./03-hts-risks.md)
+[Previous: Understanding HTS](./01-understanding-hts.md) [Next: module-04-token-creation](../module-04-token-creation/README.md)
