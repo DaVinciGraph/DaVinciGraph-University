@@ -31,8 +31,6 @@ To learn more and see examples of locked tokens, visit the following resources:
 - **Check Token Locks:** View a list of locked tokens on [DaVinciGraph](https://davincigraph.io/devs/locks/tokens).
 - **Check Liquidity Token Locks:** Review locked liquidity tokens using [DaVinciGraph](https://davincigraph.io/devs/locks/liquidities).
 
-## Video Tutorials
-
 For a comprehensive guide on how to use Token Locker, watch the following video:
 
 - **[Locking Your Tokens with DaVinciGraph Token Locker Service](https://www.youtube.com/watch?v=1X2I-bd64z8)**
