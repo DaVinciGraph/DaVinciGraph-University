@@ -30,6 +30,7 @@ Whether you're a complete beginner or have some blockchain experience, DaVinciGr
 - **[Module 04: Token Creation](./module-04-token-creation/README.md)**
 - **Module 05: Community and Marketing**
 - **Module 06: Centralized Exchange Listings**
+- **[Module 07:Protect-Yourself-Against-Crypto-Scams ](./module-07-protect-yourself-against-crypto-scams/README.md)**
 
 ## Become a Hedera Hero!
 
