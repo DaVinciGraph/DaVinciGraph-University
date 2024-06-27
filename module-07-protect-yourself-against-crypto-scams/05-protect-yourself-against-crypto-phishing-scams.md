@@ -1,4 +1,4 @@
-# Protecting Yourself from Crypto Phishing Scams
+# Protect Yourself from Crypto Phishing Scams
 
 In the rapidly evolving world of cryptocurrency, staying vigilant against potential scams is crucial. This guide focuses on how to identify and avoid phishing attempts, particularly on popular platforms like Discord and Telegram.
 
